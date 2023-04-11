@@ -1,0 +1,10 @@
+{
+  "name": "Animal Crossing Turnip Prices",
+  "git_repo": "https://github.com/PaulPopat/animal-crossing-turnips.git",
+  "description": "<p>A simple tool to track the price of animal crossing trunips across multiple weeks and multiple islands.</p>",
+  "short_description": "A simple tool to trakcing animal crossing turnips",
+  "author": "Paul Popat",
+  "current_version": "0.1.0",
+  "tags": ["Gaming", "Utility"]
+}
+  
