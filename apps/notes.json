@@ -1,0 +1,11 @@
+{
+  "name": "Notes",
+  "website": "https://github.com/counter-top-os/notes/",
+  "release_url": "https://github.com/counter-top-os/notes/releases/download/0.0.1/Release.zip",
+  "icon_url": "https://raw.githubusercontent.com/counter-top-os/notes/master/public/icon.svg",
+  "readme_url": "https://raw.githubusercontent.com/counter-top-os/notes/master/ReadMe.md",
+  "short_description": "A simple tool to create and share notes",
+  "author": "The Counter Top Team",
+  "current_version": "0.0.1",
+  "tags": ["Utility"]
+}
