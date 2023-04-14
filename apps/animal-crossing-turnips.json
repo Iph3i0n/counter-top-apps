@@ -1,7 +1,7 @@
 {
   "name": "Animal Crossing Turnip Prices",
-  "website": "https://github.com/PaulPopat/animal-crossing-turnips",
-  "release_url": "https://github.com/PaulPopat/animal-crossing-turnips/releases/download/0.1.0/Release.zip",
+  "website": "https://github.com/counter-top-os/animal-crossing-turnips",
+  "release_url": "https://github.com/counter-top-os/animal-crossing-turnips/releases/download/0.1.0/Release.zip",
   "description": "<p>A simple tool to track the price of animal crossing trunips across multiple weeks and multiple islands.</p>",
   "short_description": "A simple tool to tracking animal crossing turnips",
   "author": "Paul Popat",
