@@ -1,0 +1,11 @@
+{
+  "name": "Turnip Calculator",
+  "website": "https://github.com/counter-top-os/turnip-calculator",
+  "release_url": "https://github.com/counter-top-os/turnip-calculator/releases/download/0.0.1/Release.zip",
+  "icon_url": "https://raw.githubusercontent.com/counter-top-os/turnip-calculator/master/public/icon.svg",
+  "readme_url": "https://raw.githubusercontent.com/counter-top-os/turnip-calculator/master/ReadMe.md",
+  "short_description": "A tool to track and predict turnip prices across multiple Animal Crossing Islands",
+  "author": "The Counter Top Team",
+  "current_version": "0.0.1",
+  "tags": ["Utility", "Gaming"]
+}
